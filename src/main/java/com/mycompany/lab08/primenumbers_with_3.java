@@ -1,4 +1,4 @@
-//Kevin Carpenter
+//Kevin Carpenter lab08
 public class primenumbers_with_3//This function checks to see if the number that is passed contains the integer we are looking for, in this case it will be 3     
 {  
 static boolean containsDigit3(int number, int digit)
